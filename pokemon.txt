@@ -1,0 +1,14 @@
+Pokédex – Pokémon Search App
+
+About the App
+
+The Pokédex is a single-page web application that allows users to search for and explore information about different Pokémon. Users can enter a Pokémon's name or Pokédex number to retrieve information, including its official artwork, ID number, types, height, weight, and abilities.
+
+The goal of this project is to create a simple, interactive, and user-friendly experience for discovering Pokémon while demonstrating how websites can retrieve and display information from an external API.
+
+Background
+
+Pokémon is a popular media franchise created by Nintendo, Game Freak, and Creatures. The franchise features fictional creatures known as Pokémon, which trainers can discover, collect, train, and battle. Each Pokémon has unique characteristics, abilities, and types.
+
+The Pokédex is a digital encyclopedia used in the Pokémon world to identify and learn about different Pokémon. This application is inspired by that concept and brings a basic Pokédex experience to the web.
+
